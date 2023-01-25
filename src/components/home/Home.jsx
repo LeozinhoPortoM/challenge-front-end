@@ -7,9 +7,9 @@ export default (props) => (
     title="Início"
     subtitle="Desafio front e back da BitconinToYou."
   >
-    <div className="display-4">Bem vindo!</div>
+    <div className="display-4 text-center">Bem vindo!</div>
     <hr />
-    <p className="mb-0">
+    <p className="mb-0 text-center">
       Sistema desenvolvido com React no front-end e nodejs no back-end.
     </p>
   </Main>

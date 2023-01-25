@@ -1,16 +1,10 @@
 aside.logo {
-  background-color: rgba(232, 232, 232, 0.4);
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 50%;
 }
 
-
-aside.logo{
-    padding: 0px 15px;
-    width: 100%;
-}
-
-.logo img{
-    width: 75%;
+.logo img {
+  width: 70%;
 }
